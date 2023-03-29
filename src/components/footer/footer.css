@@ -1,0 +1,15 @@
+.footer {
+    padding: 5rem 0;
+}
+.icons {
+    text-align: center;
+}
+.email h6 {
+    font-family: 'Sacramento', cursive;
+    padding-top: 2rem;
+    text-align: center;
+    font-size: 2.5rem;
+}
+.email p {
+    text-align: center;
+}

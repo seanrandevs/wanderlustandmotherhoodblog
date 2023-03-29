@@ -1,0 +1,21 @@
+.about-me {
+    padding-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.profile-img {
+    padding-bottom: 1rem;
+}
+.name {
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+}
+.about-me p {
+    margin: 0 auto;
+    padding: 0.5rem 0;
+    text-align: center;
+    line-height: 3;
+    max-width: 1200px;
+}

@@ -1,0 +1,59 @@
+h2 {
+    font-family: 'Sacramento', cursive;
+    font-size: 3rem;
+    text-align: center;
+    margin: 5rem 0;
+}
+.react-multi-carousel-list {
+    text-align: center;
+    margin-bottom: 5rem;
+}
+.slider {
+    padding: 0 12rem;
+}
+.slider .react-multi-carousel-list ul {
+   margin: 0 auto;
+}
+.slider .card {
+    border: none;
+    margin: 0 auto;
+    width: 400px;
+}
+.slider .card img {
+    height: 265px;
+    width: 400px;
+    border-radius: 10px;
+}
+.slider .card h4 {
+    font-family: 'Sacramento', cursive;
+    font-size: 2rem;
+}
+.slider .card h5 {
+    padding: 20px 0;
+}
+.slider .react-multi-carousel-list .react-multiple-carousel__arrow--right {
+    background: none;
+    top: calc(25% + 1px);
+    right: 1px;
+}
+.slider .react-multi-carousel-list .react-multiple-carousel__arrow--left {
+    background: none;
+    top: calc(25% + 1px);
+    left: 1px;
+}
+.slider .react-multi-carousel-list button::before {
+    color: #000000;
+    font-size: 1.8rem;
+}
+@media(max-width: 1024px) {
+    .slider {
+        padding: 0;        
+    }
+    .slider .card h5 {
+        padding: 1rem 0;
+        margin: 0;
+    }
+    .react-multi-carousel-list {
+        padding-bottom: 0.5rem;
+    }
+}

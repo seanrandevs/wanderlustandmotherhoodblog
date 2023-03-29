@@ -1,0 +1,10 @@
+.main-img {
+    margin-top: 5rem;
+}
+.main-img img {
+    display: block;
+	margin: 0 auto;
+	width: 990px;
+	max-width: 100%;
+	height: auto;
+}

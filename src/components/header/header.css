@@ -1,0 +1,28 @@
+.navbar .container a {
+    text-decoration: none;
+}
+.navbar-brand {
+    font-family: 'Sacramento', cursive;
+    cursor: pointer;
+    font-size: 2.2rem;
+}
+ .navbar-nav {
+    margin-left: auto;
+    font-size: 1.5rem;
+}
+.nav-link {
+    font-family: 'Sacramento', cursive;
+    font-size: 1.8rem;
+    color: #000000;
+    padding: 1rem;
+    margin-left: 1rem;
+}
+.dropdown-item {
+    text-align: center;
+}
+.dropdown-item:hover {
+    background: none;
+}
+.social-icon {
+    margin-right: 0.5rem;
+}

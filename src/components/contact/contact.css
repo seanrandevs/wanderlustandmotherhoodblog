@@ -1,0 +1,9 @@
+.contact-section {
+    margin-top: 5rem;
+}
+.contact-section img {
+    display: block;
+	margin: 0 auto;
+	max-width: 990px;
+	height: 100%;
+}

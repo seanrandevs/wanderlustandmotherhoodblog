@@ -1,0 +1,29 @@
+.blog-img {
+    width: 600px;
+    height: auto;
+    max-width: 100%;
+}
+.blog {
+    padding: 5rem 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h5 {
+    font-family: 'Sacramento', cursive;
+    font-size: 1.5rem;
+    padding: 2.5rem 0;
+}
+.title {
+    max-width: 1000px;
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+    text-align: center;
+}
+.blog p {
+    margin: 0 auto;
+    padding: 0.5rem 0;
+    line-height: 3;
+    max-width: 1200px;
+}

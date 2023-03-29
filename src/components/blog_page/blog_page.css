@@ -1,0 +1,72 @@
+/* Blog page */
+.blog-page .container {
+    padding-top: 4rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+@media(max-width: 767px) {
+    .blog-page .container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+/* Blog Card */
+.card {
+    margin: 0 auto;
+    padding: 0;
+    max-width: 500px;
+    border: none;
+}
+.card img {
+    border-radius: 15px;
+    width: 495px; 
+	height: 333px;
+}
+.card-body {
+    text-align: center;
+    width: 495px;
+}
+.card-title {
+    font-family: 'Sacramento', cursive;
+    font-size: 2rem;
+}
+.card-body h5, a {
+    color: #000000;
+    font-weight: 300;
+    margin-top: 0.2rem;
+    text-decoration: none;
+}
+.blog-card h6 {
+    font-weight: 300;
+}
+@media only screen and (min-width: 500px) and (max-width: 1200px) {
+    .card {
+       width: 325px;
+       height: 400px;
+       margin-bottom: 50px;
+    }
+    .card img {
+       width: 325px;
+       height: 200px;
+    }
+    .card-body {
+        width: 325px;
+    }
+    .card-body h5 {
+        padding: 0;
+    }
+    
+}
+@media (max-width: 767px) {
+    .card {
+        width: 375px;
+        height: 425px;
+     }
+     .card img {
+        width: 375px;
+        height: 250px;
+     }
+     .card-body {
+         width: 375px;
+     }
+}

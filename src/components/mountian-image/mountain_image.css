@@ -1,0 +1,23 @@
+.mountain img {
+    height: 550px;
+    width: 100%;
+    border-radius: 50px;
+    padding: 0 0.5rem;
+}
+.mountain-text {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    color: #fff;
+    margin-top: 10rem;
+}
+h3 {
+    font-family: 'Sacramento', cursive;
+    font-weight: 300;
+    font-size: 3rem;
+    letter-spacing: 0.1rem;
+}
+h5 {
+    padding: 0 0.5rem;
+    font-weight: 300;
+}
