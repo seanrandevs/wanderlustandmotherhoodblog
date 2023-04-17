@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/wanderlustandmotherhoodblog/static/css/main.167ed7b7.css",
+    "main.js": "/wanderlustandmotherhoodblog/static/js/main.02f28d65.js",
+    "static/js/787.8ca05809.chunk.js": "/wanderlustandmotherhoodblog/static/js/787.8ca05809.chunk.js",
+    "static/media/mountdemo2.jpg": "/wanderlustandmotherhoodblog/static/media/mountdemo2.b2f5e9acaea28f1ba11b.jpg",
+    "static/media/cookiejar.jpg": "/wanderlustandmotherhoodblog/static/media/cookiejar.8ccf3a06b84fb0abbf3e.jpg",
+    "static/media/hikingisarollercoaster.png": "/wanderlustandmotherhoodblog/static/media/hikingisarollercoaster.757ac129033c68c2359e.png",
+    "static/media/transparent.png": "/wanderlustandmotherhoodblog/static/media/transparent.9c15c979044f45ef0023.png",
+    "static/media/hitshard.jpg": "/wanderlustandmotherhoodblog/static/media/hitshard.81be64d17df5d9cd90ea.jpg",
+    "static/media/kidswerelovedenough.jpeg": "/wanderlustandmotherhoodblog/static/media/kidswerelovedenough.34789c37b34bb211633b.jpeg",
+    "static/media/anxiety-blog.JPG": "/wanderlustandmotherhoodblog/static/media/anxiety-blog.3b5c93a828c6c57dc722.JPG",
+    "static/media/datenight.jpeg": "/wanderlustandmotherhoodblog/static/media/datenight.073610ee113331b57092.jpeg",
+    "static/media/daysarelong.jpg": "/wanderlustandmotherhoodblog/static/media/daysarelong.95d47b000abc98285a11.jpg",
+    "static/media/mountmd.jpg": "/wanderlustandmotherhoodblog/static/media/mountmd.054b0f615233bc5c10a3.jpg",
+    "static/media/depression.jpeg": "/wanderlustandmotherhoodblog/static/media/depression.7c8a3b2e6f9b00fcf27f.jpeg",
+    "static/media/aboutme.jpg": "/wanderlustandmotherhoodblog/static/media/aboutme.b8c601612583d195d469.jpg",
+    "static/media/winemd.jpg": "/wanderlustandmotherhoodblog/static/media/winemd.f4cba09ae6dc90a9dc67.jpg",
+    "static/media/familypic.jpg": "/wanderlustandmotherhoodblog/static/media/familypic.00571e04476de3137d04.jpg",
+    "static/media/revicons.eot": "/wanderlustandmotherhoodblog/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/wanderlustandmotherhoodblog/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/wanderlustandmotherhoodblog/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/wanderlustandmotherhoodblog/index.html",
+    "main.167ed7b7.css.map": "/wanderlustandmotherhoodblog/static/css/main.167ed7b7.css.map",
+    "main.02f28d65.js.map": "/wanderlustandmotherhoodblog/static/js/main.02f28d65.js.map",
+    "787.8ca05809.chunk.js.map": "/wanderlustandmotherhoodblog/static/js/787.8ca05809.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.167ed7b7.css",
+    "static/js/main.02f28d65.js"
+  ]
+}
